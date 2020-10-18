@@ -40,7 +40,7 @@ streamlit run streamlit_app.py
 ```
 
 <p align="center">
-  <img src="data/app.png?raw=true" width="60%">
+  <img src="data/app.png?raw=true" width="90%">
 </p>
   
 Note: This code way adopted from Jina's [Southpark search](https://github.com/jina-ai/examples/tree/master/southpark-search)
