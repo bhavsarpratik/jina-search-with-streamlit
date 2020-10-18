@@ -1,0 +1,6 @@
+click
+pandas
+transformers
+torch
+jina[http,scipy]==0.6.7
+streamlit
