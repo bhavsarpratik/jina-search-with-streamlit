@@ -16,7 +16,9 @@
 
 </p>
 
-In this demo, we use Jina to build a semantic search system on the [ICD10 codes](https://www.icd10data.com/).  
+## What is this?  
+In this demo, we use Jina to build a semantic search system for medical domain on the [ICD10 codes](https://www.icd10data.com/).  
+
 
 
 ## Index data  
@@ -36,6 +38,9 @@ You dont need to start jina server if you want to run demo as it is taken care.
 ```bash
 streamlit run streamlit_app.py
 ```
-  
+
+<p align="center">
+  <img src="data/app.png?raw=true" width="60%">
+</p>
   
 Note: This code way adopted from Jina's [Southpark search](https://github.com/jina-ai/examples/tree/master/southpark-search)
